@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="birth_year_min">1900</integer>
+    <integer name="chat_text_length_max">140</integer>
+    <integer name="chat_text_length_min">1</integer>
+    <integer name="comment_text_length_max">140</integer>
+    <integer name="comment_text_length_min">1</integer>
+    <integer name="direct_message_text_length_max">140</integer>
+    <integer name="direct_message_text_length_min">1</integer>
+    <integer name="google_play_services_version">12451000</integer>
+    <integer name="ia_ib_button_size_dp">32</integer>
+    <integer name="ia_ib_toolbar_height_dp">48</integer>
+    <integer name="message_text_length_max">140</integer>
+    <integer name="message_text_length_min">1</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+    <integer name="user_description_length_max">100</integer>
+    <integer name="user_description_length_min">0</integer>
+    <integer name="user_name_length_max">20</integer>
+    <integer name="user_name_length_min">1</integer>
+    <integer name="user_password_length_max">12</integer>
+    <integer name="user_password_length_min">6</integer>
+</resources>

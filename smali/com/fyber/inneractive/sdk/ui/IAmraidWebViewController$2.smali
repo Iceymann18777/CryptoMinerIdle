@@ -1,0 +1,55 @@
+.class final Lcom/fyber/inneractive/sdk/ui/IAmraidWebViewController$2;
+.super Ljava/lang/Object;
+.source "SourceFile"
+
+# interfaces
+.implements Ljava/lang/Runnable;
+
+
+# annotations
+.annotation system Ldalvik/annotation/EnclosingClass;
+    value = Lcom/fyber/inneractive/sdk/ui/IAmraidWebViewController;
+.end annotation
+
+.annotation system Ldalvik/annotation/InnerClass;
+    accessFlags = 0x0
+    name = null
+.end annotation
+
+
+# instance fields
+.field final synthetic a:Lcom/fyber/inneractive/sdk/ui/IAmraidWebViewController;
+
+
+# direct methods
+.method constructor <init>(Lcom/fyber/inneractive/sdk/ui/IAmraidWebViewController;)V
+    .locals 0
+
+    .line 218
+    iput-object p1, p0, Lcom/fyber/inneractive/sdk/ui/IAmraidWebViewController$2;->a:Lcom/fyber/inneractive/sdk/ui/IAmraidWebViewController;
+
+    invoke-direct {p0}, Ljava/lang/Object;-><init>()V
+
+    return-void
+.end method
+
+
+# virtual methods
+.method public final run()V
+    .locals 3
+
+    .line 227
+    iget-object v0, p0, Lcom/fyber/inneractive/sdk/ui/IAmraidWebViewController$2;->a:Lcom/fyber/inneractive/sdk/ui/IAmraidWebViewController;
+
+    invoke-static {v0}, Lcom/fyber/inneractive/sdk/ui/IAmraidWebViewController;->b(Lcom/fyber/inneractive/sdk/ui/IAmraidWebViewController;)Lcom/fyber/inneractive/sdk/m/c;
+
+    move-result-object v0
+
+    const-string v1, "javascript:if (FyMraidVideo.getCurrentTime() < 0.2) { var ifr = document.createElement(\'iframe\'); var container = document.body || document.documentElement; container.appendChild(ifr); ifr.setAttribute(\'sandbox\', \'\'); ifr.setAttribute(\'style\', \'position: fixed; bottom: -20px; border: none; visibility: hidden; height: 20px; z-index: -99999\'); ifr.setAttribute(\'src\',\'FyMraidVideo://fyMraidVideoAdPlaybackFailure\'); console.log(\'dispatched closure event\'); } else { console.log(\'video has progressed\'); };"
+
+    const/4 v2, 0x0
+
+    invoke-virtual {v0, v1, v2}, Lcom/fyber/inneractive/sdk/m/c;->loadUrl(Ljava/lang/String;Ljava/util/Map;)V
+
+    return-void
+.end method

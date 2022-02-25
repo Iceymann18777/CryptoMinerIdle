@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "985554118055",
+    "firebase_url": "https://crypto-idle-miner-78138029.firebaseio.com",
+    "project_id": "crypto-idle-miner-78138029",
+    "storage_bucket": "crypto-idle-miner-78138029.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985554118055:android:4d0f287f05123ae0",
+        "android_client_info": {
+          "package_name": "com.horagames.cryptominer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985554118055-g0h0edm5dhdvnkh3d49qahfqfmnv4848.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.horagames.cryptominer",
+            "certificate_hash": "070808e4ad2007478a8ef416c7c0de27cc574921"
+          }
+        },
+        {
+          "client_id": "985554118055-5k8m7uftf57kcvr49vqk59h1vq0rv5dp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.horagames.cryptominer",
+            "certificate_hash": "67fefc6bbdb96d7c49d79fb63d2b47b756dc987c"
+          }
+        },
+        {
+          "client_id": "985554118055-bdqtjgd26itbaki4ku7sp63u33ueoipk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbXSHJufK5tg4deH-x2fluoTeK_s-GT6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985554118055-bdqtjgd26itbaki4ku7sp63u33ueoipk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985554118055-vta2qktvci0l9bqqa0d8sghuo7v9uv6c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.horagames.cryptoidleminer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

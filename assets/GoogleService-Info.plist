@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>985554118055-vta2qktvci0l9bqqa0d8sghuo7v9uv6c.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.985554118055-vta2qktvci0l9bqqa0d8sghuo7v9uv6c</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>985554118055-g0h0edm5dhdvnkh3d49qahfqfmnv4848.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCxtQjP5aQziunf_duWgPa2u3PgXriWVvU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>985554118055</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.horagames.cryptoidleminer</string>
+	<key>PROJECT_ID</key>
+	<string>crypto-idle-miner-78138029</string>
+	<key>STORAGE_BUCKET</key>
+	<string>crypto-idle-miner-78138029.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:985554118055:ios:2a81caa9c852a43f</string>
+	<key>DATABASE_URL</key>
+	<string>https://crypto-idle-miner-78138029.firebaseio.com</string>
+</dict>
+</plist>
